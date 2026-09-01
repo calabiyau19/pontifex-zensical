@@ -1,0 +1,66 @@
+<svg width="100%" viewBox="0 0 680 320" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Networking category card</title>
+<rect width="680" height="320" fill="#1a1f2e"/>
+
+<rect x="40" y="30" width="280" height="235" rx="8" fill="#1e2535" stroke="#2d4a6e" stroke-width="1"/>
+<rect x="40" y="30" width="280" height="26" rx="4" fill="#1a2040"/>
+<text x="180" y="48" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#8ab4e8">LIBRENMS · HOME LAB</text>
+
+<rect x="130" y="68" width="120" height="28" rx="4" fill="#1e3060" stroke="#3a5aaa" stroke-width="1"/>
+<text x="190" y="83" text-anchor="middle" font-family="monospace" font-size="10" fill="#8ab4e8">router · 192.168.1.1</text>
+
+<line x1="190" y1="96" x2="100" y2="124" stroke="#2d4a6e" stroke-width="1" stroke-dasharray="3,2"/>
+<line x1="190" y1="96" x2="190" y2="124" stroke="#2d4a6e" stroke-width="1" stroke-dasharray="3,2"/>
+<line x1="190" y1="96" x2="280" y2="124" stroke="#2d4a6e" stroke-width="1" stroke-dasharray="3,2"/>
+
+<rect x="56" y="124" width="82" height="32" rx="3" fill="#1e2a40" stroke="#2d4a7a" stroke-width="1"/>
+<circle cx="66" cy="136" r="3" fill="#2d9e6b"/>
+<text x="72" y="140" font-family="monospace" font-size="9" fill="#e8eaf0">lpt-HP</text>
+<text x="66" y="152" font-family="monospace" font-size="8" fill="#8892a4">.1.100</text>
+
+<rect x="148" y="124" width="84" height="32" rx="3" fill="#1e2a40" stroke="#2d4a7a" stroke-width="1"/>
+<circle cx="158" cy="136" r="3" fill="#2d9e6b"/>
+<text x="164" y="140" font-family="monospace" font-size="9" fill="#e8eaf0">web-vm</text>
+<text x="158" y="152" font-family="monospace" font-size="8" fill="#8892a4">.1.72</text>
+
+<rect x="242" y="124" width="72" height="32" rx="3" fill="#1e2a40" stroke="#2d4a7a" stroke-width="1"/>
+<circle cx="252" cy="136" r="3" fill="#2d9e6b"/>
+<text x="258" y="140" font-family="monospace" font-size="9" fill="#e8eaf0">nuc5</text>
+<text x="252" y="152" font-family="monospace" font-size="8" fill="#8892a4">.1.125</text>
+
+<rect x="56" y="168" width="252" height="48" rx="4" fill="#161e2e" stroke="#2d4a6e" stroke-width="1"/>
+<text x="68" y="184" font-family="monospace" font-size="9" fill="#8892a4">librenms · device status</text>
+<line x1="56" y1="190" x2="308" y2="190" stroke="#2d4a6e" stroke-width="0.5"/>
+<circle cx="68" cy="204" r="3" fill="#2d9e6b"/>
+<text x="78" y="208" font-family="monospace" font-size="9" fill="#e8eaf0">lpt-HP · up · 2ms</text>
+<circle cx="175" cy="204" r="3" fill="#2d9e6b"/>
+<text x="185" y="208" font-family="monospace" font-size="9" fill="#e8eaf0">web-vm · up · 1ms</text>
+
+<rect x="360" y="40" width="280" height="220" rx="6" fill="#1e2535" stroke="#1a2a5a" stroke-width="1.2"/>
+<text x="500" y="68" text-anchor="middle" font-family="monospace" font-size="12" fill="#8ab4e8">network map</text>
+<line x1="370" y1="76" x2="630" y2="76" stroke="#2d4a6e" stroke-width="0.5"/>
+
+<rect x="420" y="90" width="160" height="24" rx="3" fill="#1e3060" stroke="#3a5aaa" stroke-width="1"/>
+<text x="500" y="106" text-anchor="middle" font-family="monospace" font-size="10" fill="#8ab4e8">192.168.1.0/24</text>
+
+<line x1="500" y1="114" x2="420" y2="145" stroke="#2d4a6e" stroke-width="0.8"/>
+<line x1="500" y1="114" x2="500" y2="145" stroke="#2d4a6e" stroke-width="0.8"/>
+<line x1="500" y1="114" x2="580" y2="145" stroke="#2d4a6e" stroke-width="0.8"/>
+
+<rect x="374" y="145" width="86" height="22" rx="3" fill="#1a2a3a" stroke="#2d5a3a" stroke-width="1"/>
+<text x="417" y="160" text-anchor="middle" font-family="monospace" font-size="9" fill="#2d9e6b">.1.1 router</text>
+
+<rect x="457" y="145" width="86" height="22" rx="3" fill="#1a2a3a" stroke="#2d4a7a" stroke-width="1"/>
+<text x="500" y="160" text-anchor="middle" font-family="monospace" font-size="9" fill="#8ab4e8">.1.72 web</text>
+
+<rect x="540" y="145" width="86" height="22" rx="3" fill="#1a2a3a" stroke="#2d4a7a" stroke-width="1"/>
+<text x="583" y="160" text-anchor="middle" font-family="monospace" font-size="9" fill="#8ab4e8">.1.125 nuc5</text>
+
+<text x="378" y="196" font-family="monospace" font-size="9" fill="#8892a4">ping sweep: .1.1 - .1.255</text>
+<text x="378" y="212" font-family="monospace" font-size="9" fill="#2d9e6b">✓ 12 hosts discovered</text>
+<text x="378" y="228" font-family="monospace" font-size="9" fill="#8892a4">uptime: 99.9% · 30 days</text>
+<text x="378" y="244" font-family="monospace" font-size="9" fill="#8892a4">alerts: 0 critical · 0 warn</text>
+
+<text x="500" y="278" text-anchor="middle" font-family="monospace" font-size="15" font-weight="bold" fill="#8ab4e8">NETWORKING</text>
+<text x="500" y="296" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">monitoring · librenms · topology</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg width="100%" viewBox="0 0 680 320" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Proxmox category card</title>
+<desc>Dark illustrated card for Proxmox category showing datacenter UI and server nodes</desc>
+
+<rect width="680" height="320" fill="#1a1f2e"/>
+
+<rect x="40" y="30" width="280" height="255" rx="8" fill="#1e2535" stroke="#2d4a6e" stroke-width="1"/>
+<rect x="40" y="30" width="280" height="26" rx="4" fill="#8a3e00"/>
+<text x="180" y="48" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#e0c8b8">PROXMOX DATACENTER</text>
+
+<rect x="56" y="68" width="248" height="26" rx="4" fill="#2a3347"/>
+<circle cx="70" cy="81" r="4" fill="#2d9e6b"/>
+<text x="82" y="85" font-family="monospace" font-size="11" fill="#8a3e00">▶</text>
+<text x="96" y="85" font-family="monospace" font-size="11" fill="#e8eaf0">nuc5-proxmox</text>
+
+<rect x="64" y="100" width="232" height="22" rx="3" fill="#1a2236"/>
+<circle cx="76" cy="111" r="3" fill="#2d9e6b"/>
+<text x="88" y="115" font-family="monospace" font-size="11" fill="#e8eaf0">100  ubuntu-template</text>
+
+<rect x="64" y="126" width="232" height="22" rx="3" fill="#1a2236"/>
+<circle cx="76" cy="137" r="3" fill="#2d9e6b"/>
+<text x="88" y="141" font-family="monospace" font-size="11" fill="#e8eaf0">101  ghost-vm</text>
+
+<rect x="64" y="152" width="232" height="22" rx="3" fill="#2a3347" stroke="#8a3e00" stroke-width="1"/>
+<circle cx="76" cy="163" r="3" fill="#8a3e00"/>
+<text x="88" y="167" font-family="monospace" font-size="11" fill="#a05020">+  NEW VM creating...</text>
+
+<rect x="64" y="178" width="232" height="22" rx="3" fill="#1a2236"/>
+<circle cx="76" cy="189" r="3" fill="#2d9e6b"/>
+<text x="88" y="193" font-family="monospace" font-size="11" fill="#e8eaf0">103  openclaw-vm</text>
+
+<text x="180" y="232" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">CPU: 4 cores · RAM: 4GB</text>
+<text x="180" y="246" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">Disk: 32GB · OS: Ubuntu 24.04</text>
+<text x="180" y="260" text-anchor="middle" font-family="monospace" font-size="10" fill="#2d9e6b">✓ SSH enabled · ✓ Static IP</text>
+
+<rect x="360" y="80" width="280" height="105" rx="6" fill="#1e2535" stroke="#8a3e00" stroke-width="1.2"/>
+<text x="500" y="108" text-anchor="middle" font-family="monospace" font-size="13" fill="#e8eaf0">Create VM</text>
+<line x1="370" y1="116" x2="630" y2="116" stroke="#2d4a6e" stroke-width="0.5"/>
+<text x="378" y="136" font-family="monospace" font-size="11" fill="#8892a4">Name:</text>
+<text x="430" y="136" font-family="monospace" font-size="11" fill="#2d9e6b">new-ubuntu-vm</text>
+<text x="378" y="154" font-family="monospace" font-size="11" fill="#8892a4">ISO:</text>
+<text x="412" y="154" font-family="monospace" font-size="11" fill="#2d9e6b">ubuntu-24.04.iso</text>
+<text x="378" y="172" font-family="monospace" font-size="11" fill="#2d9e6b">✓ Ready to create</text>
+
+<rect x="378" y="200" width="244" height="28" rx="4" fill="#8a3e00"/>
+<text x="500" y="219" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#e0c8b8">Start VM</text>
+
+<text x="500" y="272" text-anchor="middle" font-family="monospace" font-size="15" font-weight="bold" fill="#a05020">PROXMOX</text>
+<text x="500" y="288" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">vm management · upgrades · backups</text>
+
+<line x1="360" y1="30" x2="640" y2="30" stroke="#8a3e00" stroke-width="2"/>
+<line x1="640" y1="30" x2="640" y2="310" stroke="#2d4a6e" stroke-width="1"/>
+<line x1="360" y1="310" x2="640" y2="310" stroke="#2d4a6e" stroke-width="1"/>
+<line x1="360" y1="30" x2="360" y2="310" stroke="#2d4a6e" stroke-width="1"/>
+</svg>

@@ -1,0 +1,15 @@
+.venv/
+site/
+.cache/
+__pycache__/
+
+# Local-only posts - sensitive home-network info, never push to GitHub
+docs/networking/2026-08-18-cowrie-install-public.md
+docs/networking/2026-02-24-tailscale-troubleshooting.md
+docs/networking/2026-02-07-adding-a-new-service-to-existing-reverse-proxy-caddy-cloudflare-tunnel.md
+docs/applications/2026-07-17-new-forgejo-repo-setup.md
+docs/linux/2026-07-30-thunderbird-backup-and-restore.md
+docs/projects/2026-08-31-prometheus-grafana-network-monitoring.md
+docs/projects/2026-03-01-adding-new-obsidian-vault.md
+docs/proxmox/2026-02-09-automating-ubuntu-server-updates-with-scripts.md
+docs/assets/images/grafana-2026-09-01.png

@@ -1,0 +1,60 @@
+<svg width="100%" viewBox="0 0 680 320" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Linux category card v2</title>
+<desc>Dark illustrated card showing Linux terminal commands and system tools</desc>
+
+<rect width="680" height="320" fill="#1a1f2e"/>
+
+<rect x="40" y="30" width="280" height="255" rx="8" fill="#1e2535" stroke="#2d4a6e" stroke-width="1"/>
+<rect x="40" y="30" width="280" height="26" rx="4" fill="#1a2a3a"/>
+<circle cx="58" cy="43" r="5" fill="#c0392b"/>
+<circle cx="74" cy="43" r="5" fill="#e67e22"/>
+<circle cx="90" cy="43" r="5" fill="#27ae60"/>
+<text x="200" y="48" text-anchor="middle" font-family="monospace" font-size="11" fill="#8892a4">bash — mark@linux-vm</text>
+
+<text x="56" y="76" font-family="monospace" font-size="11" fill="#2d9e6b">mark@linux-vm:~$</text>
+<text x="176" y="76" font-family="monospace" font-size="11" fill="#e8eaf0">uname -a</text>
+<text x="56" y="92" font-family="monospace" font-size="10" fill="#8892a4">Linux linux-vm 6.8.0-51-generic</text>
+<text x="56" y="106" font-family="monospace" font-size="10" fill="#8892a4">x86_64 GNU/Linux</text>
+
+<text x="56" y="126" font-family="monospace" font-size="11" fill="#2d9e6b">mark@linux-vm:~$</text>
+<text x="176" y="126" font-family="monospace" font-size="11" fill="#e8eaf0">df -h /</text>
+<text x="56" y="142" font-family="monospace" font-size="10" fill="#8892a4">Filesystem 50G 18G 30G 37% /</text>
+
+<text x="56" y="162" font-family="monospace" font-size="11" fill="#2d9e6b">mark@linux-vm:~$</text>
+<text x="176" y="162" font-family="monospace" font-size="11" fill="#e8eaf0">sudo apt update</text>
+<text x="56" y="178" font-family="monospace" font-size="10" fill="#8892a4">Hit:1 archive.ubuntu.com noble</text>
+<text x="56" y="192" font-family="monospace" font-size="10" fill="#2d9e6b">All packages are up to date.</text>
+
+<text x="56" y="212" font-family="monospace" font-size="11" fill="#2d9e6b">mark@linux-vm:~$</text>
+<rect x="176" y="200" width="8" height="14" fill="#2d9e6b"/>
+
+<text x="180" y="258" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">Ubuntu 24.04 LTS · bash · Fish</text>
+<text x="180" y="272" text-anchor="middle" font-family="monospace" font-size="10" fill="#2d9e6b">✓ systemd · apt · scripting</text>
+
+<rect x="362" y="50" width="146" height="36" rx="4" fill="#1e2a3a" stroke="#2d6a8a" stroke-width="1"/>
+<text x="377" y="65" font-family="monospace" font-size="9" fill="#8892a4">command</text>
+<text x="377" y="79" font-family="monospace" font-size="10" fill="#4aaccc">apt upgrade -y</text>
+
+<rect x="516" y="50" width="144" height="36" rx="4" fill="#1e2a3a" stroke="#2d8a4a" stroke-width="1"/>
+<text x="531" y="65" font-family="monospace" font-size="9" fill="#8892a4">command</text>
+<text x="531" y="79" font-family="monospace" font-size="10" fill="#2d9e6b">systemctl restart</text>
+
+<rect x="362" y="96" width="146" height="36" rx="4" fill="#1e2a3a" stroke="#8a4a2d" stroke-width="1"/>
+<text x="377" y="111" font-family="monospace" font-size="9" fill="#8892a4">command</text>
+<text x="377" y="125" font-family="monospace" font-size="10" fill="#c47a40">journalctl -fu svc</text>
+
+<rect x="516" y="96" width="144" height="36" rx="4" fill="#1e2a3a" stroke="#4a2d8a" stroke-width="1"/>
+<text x="531" y="111" font-family="monospace" font-size="9" fill="#8892a4">command</text>
+<text x="531" y="125" font-family="monospace" font-size="10" fill="#8a6adc">compose up -d</text>
+
+<rect x="362" y="142" width="146" height="36" rx="4" fill="#1e2a3a" stroke="#6a2d2d" stroke-width="1"/>
+<text x="377" y="157" font-family="monospace" font-size="9" fill="#8892a4">command</text>
+<text x="377" y="171" font-family="monospace" font-size="10" fill="#cc4a4a">grep -r "error"</text>
+
+<rect x="516" y="142" width="144" height="36" rx="4" fill="#1e2a3a" stroke="#2d6a8a" stroke-width="1"/>
+<text x="531" y="157" font-family="monospace" font-size="9" fill="#8892a4">command</text>
+<text x="531" y="171" font-family="monospace" font-size="10" fill="#4aaccc">htop</text>
+
+<text x="500" y="228" text-anchor="middle" font-family="monospace" font-size="15" font-weight="bold" fill="#4aaccc">LINUX</text>
+<text x="500" y="244" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">notes · guides · fixes · scripting</text>
+</svg>

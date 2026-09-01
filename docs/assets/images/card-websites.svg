@@ -1,0 +1,55 @@
+<svg width="100%" viewBox="0 0 680 320" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Websites category card</title>
+<rect width="680" height="320" fill="#1a1f2e"/>
+
+<rect x="40" y="30" width="280" height="255" rx="8" fill="#1e2535" stroke="#2d4a6e" stroke-width="1"/>
+<rect x="40" y="30" width="280" height="26" rx="4" fill="#1a3040"/>
+<text x="180" y="48" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#80c8e0">PONTIFEX · SITE BUILD</text>
+
+<rect x="56" y="68" width="248" height="22" rx="3" fill="#1a2236"/>
+<text x="68" y="83" font-family="monospace" font-size="10" fill="#80c8e0">zensical</text>
+<text x="200" y="83" font-family="monospace" font-size="10" fill="#2d9e6b">● active</text>
+
+<rect x="56" y="94" width="248" height="22" rx="3" fill="#1a2236"/>
+<text x="68" y="109" font-family="monospace" font-size="10" fill="#8892a4">jekyll/chirpy</text>
+<text x="200" y="109" font-family="monospace" font-size="10" fill="#8892a4">○ legacy</text>
+
+<rect x="56" y="120" width="248" height="22" rx="3" fill="#1a2236"/>
+<text x="68" y="135" font-family="monospace" font-size="10" fill="#8892a4">ghost cms</text>
+<text x="200" y="135" font-family="monospace" font-size="10" fill="#8892a4">○ retired</text>
+
+<line x1="56" y1="152" x2="304" y2="152" stroke="#2d4a6e" stroke-width="0.5"/>
+
+<text x="68" y="170" font-family="monospace" font-size="10" fill="#8892a4">$ zensical serve</text>
+<text x="68" y="186" font-family="monospace" font-size="10" fill="#2d9e6b">Serving on http://0.0.0.0:8000</text>
+<text x="68" y="202" font-family="monospace" font-size="10" fill="#2d9e6b">Build started</text>
+<text x="68" y="218" font-family="monospace" font-size="10" fill="#2d9e6b">No issues found</text>
+
+<text x="180" y="256" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">pontifex.site · github pages</text>
+<text x="180" y="270" text-anchor="middle" font-family="monospace" font-size="10" fill="#80c8e0">docs · self-hosting · markdown</text>
+
+<rect x="360" y="40" width="280" height="220" rx="6" fill="#1e2535" stroke="#1a3050" stroke-width="1.2"/>
+<text x="500" y="68" text-anchor="middle" font-family="monospace" font-size="12" fill="#80c8e0">deployment pipeline</text>
+<line x1="370" y1="76" x2="630" y2="76" stroke="#2d4a6e" stroke-width="0.5"/>
+
+<rect x="420" y="90" width="160" height="22" rx="3" fill="#1a2535" stroke="#2d4a7a" stroke-width="1"/>
+<text x="500" y="105" text-anchor="middle" font-family="monospace" font-size="10" fill="#e8eaf0">docs/ markdown files</text>
+
+<line x1="500" y1="112" x2="500" y2="130" stroke="#2d4a6e" stroke-width="1"/>
+
+<rect x="420" y="130" width="160" height="22" rx="3" fill="#1a2535" stroke="#2d4a6e" stroke-width="1"/>
+<text x="500" y="145" text-anchor="middle" font-family="monospace" font-size="10" fill="#80c8e0">zensical build</text>
+
+<line x1="500" y1="152" x2="500" y2="170" stroke="#2d4a6e" stroke-width="1"/>
+
+<rect x="420" y="170" width="160" height="22" rx="3" fill="#1a2535" stroke="#2d5a3a" stroke-width="1"/>
+<text x="500" y="185" text-anchor="middle" font-family="monospace" font-size="10" fill="#2d9e6b">github actions CI</text>
+
+<line x1="500" y1="192" x2="500" y2="210" stroke="#2d4a6e" stroke-width="1"/>
+
+<rect x="420" y="210" width="160" height="22" rx="3" fill="#1a2535" stroke="#3a5aaa" stroke-width="1"/>
+<text x="500" y="225" text-anchor="middle" font-family="monospace" font-size="10" fill="#8ab4e8">github pages</text>
+
+<text x="500" y="278" text-anchor="middle" font-family="monospace" font-size="15" font-weight="bold" fill="#80c8e0">WEBSITES</text>
+<text x="500" y="296" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">zensical · jekyll · deployment</text>
+</svg>

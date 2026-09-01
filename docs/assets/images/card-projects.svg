@@ -1,0 +1,60 @@
+<svg width="100%" viewBox="0 0 680 320" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Projects category card</title>
+<rect width="680" height="320" fill="#1a1f2e"/>
+
+<rect x="40" y="30" width="280" height="245" rx="8" fill="#1e2535" stroke="#2d4a6e" stroke-width="1"/>
+<rect x="40" y="30" width="280" height="26" rx="4" fill="#2a1a3a"/>
+<text x="180" y="48" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#b8a0e0">HOMELAB PROJECTS</text>
+
+<rect x="56" y="68" width="248" height="22" rx="3" fill="#1a2236" stroke="#4a3a6a" stroke-width="1"/>
+<text x="68" y="83" font-family="monospace" font-size="10" fill="#b8a0e0">▶ active</text>
+<text x="130" y="83" font-family="monospace" font-size="10" fill="#e8eaf0">NAS + Jellyfin build</text>
+
+<rect x="56" y="94" width="248" height="22" rx="3" fill="#1a2236" stroke="#4a3a6a" stroke-width="1"/>
+<text x="68" y="109" font-family="monospace" font-size="10" fill="#b8a0e0">▶ active</text>
+<text x="130" y="109" font-family="monospace" font-size="10" fill="#e8eaf0">Wireguard VPN setup</text>
+
+<rect x="56" y="120" width="248" height="22" rx="3" fill="#1a2236" stroke="#2d4a6e" stroke-width="1"/>
+<text x="68" y="135" font-family="monospace" font-size="10" fill="#8892a4">○ planned</text>
+<text x="130" y="135" font-family="monospace" font-size="10" fill="#8892a4">Offsite backup system</text>
+
+<rect x="56" y="146" width="248" height="22" rx="3" fill="#1a2236" stroke="#2d4a6e" stroke-width="1"/>
+<text x="68" y="161" font-family="monospace" font-size="10" fill="#8892a4">○ planned</text>
+<text x="130" y="161" font-family="monospace" font-size="10" fill="#8892a4">Grafana dashboard</text>
+
+<rect x="56" y="172" width="248" height="22" rx="3" fill="#1a2236" stroke="#2d4a3a" stroke-width="1"/>
+<text x="68" y="187" font-family="monospace" font-size="10" fill="#2d9e6b">✓ done</text>
+<text x="118" y="187" font-family="monospace" font-size="10" fill="#8892a4">Proxmox cluster migration</text>
+
+<text x="180" y="222" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">2 active · 2 planned · 1 complete</text>
+<text x="180" y="238" text-anchor="middle" font-family="monospace" font-size="10" fill="#b8a0e0">longer-running experiments</text>
+<text x="180" y="254" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">ubuntu-web-vm homelab</text>
+
+<rect x="360" y="50" width="280" height="200" rx="6" fill="#1e2535" stroke="#2a1a4a" stroke-width="1.2"/>
+<text x="500" y="78" text-anchor="middle" font-family="monospace" font-size="12" fill="#b8a0e0">architecture notes</text>
+<line x1="370" y1="86" x2="630" y2="86" stroke="#2d4a6e" stroke-width="0.5"/>
+
+<rect x="420" y="100" width="160" height="22" rx="3" fill="#1a1a2e" stroke="#4a3a7a" stroke-width="1"/>
+<text x="500" y="115" text-anchor="middle" font-family="monospace" font-size="10" fill="#b8a0e0">internet</text>
+
+<line x1="500" y1="122" x2="500" y2="140" stroke="#4a3a6a" stroke-width="1"/>
+
+<rect x="420" y="140" width="160" height="22" rx="3" fill="#1a1a2e" stroke="#3a5aaa" stroke-width="1"/>
+<text x="500" y="155" text-anchor="middle" font-family="monospace" font-size="10" fill="#8ab4e8">cloudflare tunnel</text>
+
+<line x1="500" y1="162" x2="500" y2="180" stroke="#4a3a6a" stroke-width="1"/>
+
+<rect x="380" y="180" width="100" height="22" rx="3" fill="#1a2535" stroke="#2d5a3a" stroke-width="1"/>
+<text x="430" y="195" text-anchor="middle" font-family="monospace" font-size="10" fill="#2d9e6b">caddy proxy</text>
+
+<rect x="500" y="180" width="100" height="22" rx="3" fill="#1a2535" stroke="#4a3a6a" stroke-width="1"/>
+<text x="550" y="195" text-anchor="middle" font-family="monospace" font-size="10" fill="#b8a0e0">wireguard</text>
+
+<line x1="430" y1="202" x2="430" y2="220" stroke="#4a3a6a" stroke-width="1"/>
+
+<rect x="370" y="220" width="240" height="22" rx="3" fill="#1a1a2e" stroke="#2d4a6e" stroke-width="1"/>
+<text x="490" y="235" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">docker services · proxmox VMs</text>
+
+<text x="500" y="278" text-anchor="middle" font-family="monospace" font-size="15" font-weight="bold" fill="#b8a0e0">PROJECTS</text>
+<text x="500" y="296" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">experiments · builds · research</text>
+</svg>

@@ -1,0 +1,7 @@
+.md-tabs__item:has(a[href=""]) {
+  display: none;
+}
+
+.md-typeset .grid.cards>ul>li {
+  border: 1.5px solid #3d6a9e !important;
+}

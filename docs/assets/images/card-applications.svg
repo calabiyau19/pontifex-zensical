@@ -1,0 +1,57 @@
+<svg width="100%" viewBox="0 0 680 320" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Applications category card</title>
+<desc>Dark illustrated card showing self-hosted application containers and services</desc>
+
+<rect width="680" height="320" fill="#1a1f2e"/>
+
+<rect x="40" y="30" width="280" height="255" rx="8" fill="#1e2535" stroke="#2d4a6e" stroke-width="1"/>
+<rect x="40" y="30" width="280" height="26" rx="4" fill="#1a3a2e"/>
+<text x="180" y="48" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="#a0d4b8">DOCKER SERVICES</text>
+
+<rect x="56" y="68" width="248" height="22" rx="3" fill="#1a2236"/>
+<circle cx="70" cy="79" r="3" fill="#2d9e6b"/>
+<text x="84" y="83" font-family="monospace" font-size="11" fill="#e8eaf0">jellyfin</text>
+<text x="220" y="83" font-family="monospace" font-size="10" fill="#2d9e6b">running</text>
+
+<rect x="56" y="94" width="248" height="22" rx="3" fill="#1a2236"/>
+<circle cx="70" cy="105" r="3" fill="#2d9e6b"/>
+<text x="84" y="109" font-family="monospace" font-size="11" fill="#e8eaf0">navidrome</text>
+<text x="220" y="109" font-family="monospace" font-size="10" fill="#2d9e6b">running</text>
+
+<rect x="56" y="120" width="248" height="22" rx="3" fill="#1a2236"/>
+<circle cx="70" cy="131" r="3" fill="#2d9e6b"/>
+<text x="84" y="135" font-family="monospace" font-size="11" fill="#e8eaf0">ghost</text>
+<text x="220" y="135" font-family="monospace" font-size="10" fill="#2d9e6b">running</text>
+
+<rect x="56" y="146" width="248" height="22" rx="3" fill="#1a2236"/>
+<circle cx="70" cy="157" r="3" fill="#2d9e6b"/>
+<text x="84" y="161" font-family="monospace" font-size="11" fill="#e8eaf0">forgejo</text>
+<text x="220" y="161" font-family="monospace" font-size="10" fill="#2d9e6b">running</text>
+
+<rect x="56" y="172" width="248" height="22" rx="3" fill="#1a2236"/>
+<circle cx="70" cy="183" r="3" fill="#2d9e6b"/>
+<text x="84" y="187" font-family="monospace" font-size="11" fill="#e8eaf0">openclaw</text>
+<text x="220" y="187" font-family="monospace" font-size="10" fill="#2d9e6b">running</text>
+
+<text x="180" y="232" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">5 containers · all healthy</text>
+<text x="180" y="248" text-anchor="middle" font-family="monospace" font-size="10" fill="#2d9e6b">✓ docker compose up -d</text>
+<text x="180" y="264" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">ubuntu-web-vm · 192.168.1.72</text>
+
+<rect x="360" y="60" width="280" height="220" rx="6" fill="#1e2535" stroke="#1a4a3a" stroke-width="1.2"/>
+<text x="500" y="88" text-anchor="middle" font-family="monospace" font-size="12" fill="#a0d4b8">docker-compose.yml</text>
+<line x1="370" y1="96" x2="630" y2="96" stroke="#2d4a6e" stroke-width="0.5"/>
+
+<text x="378" y="116" font-family="monospace" font-size="10" fill="#5a8a7a">services:</text>
+<text x="386" y="132" font-family="monospace" font-size="10" fill="#7ab4a0">jellyfin:</text>
+<text x="394" y="148" font-family="monospace" font-size="10" fill="#8892a4">image: jellyfin/jellyfin</text>
+<text x="394" y="164" font-family="monospace" font-size="10" fill="#8892a4">ports: 8096:8096</text>
+<text x="386" y="180" font-family="monospace" font-size="10" fill="#7ab4a0">navidrome:</text>
+<text x="394" y="196" font-family="monospace" font-size="10" fill="#8892a4">image: deluan/navidrome</text>
+<text x="394" y="212" font-family="monospace" font-size="10" fill="#8892a4">ports: 4533:4533</text>
+<text x="386" y="228" font-family="monospace" font-size="10" fill="#7ab4a0">ghost:</text>
+<text x="394" y="244" font-family="monospace" font-size="10" fill="#8892a4">image: ghost:latest</text>
+<text x="394" y="260" font-family="monospace" font-size="10" fill="#8892a4">ports: 2368:2368</text>
+
+<text x="500" y="298" text-anchor="middle" font-family="monospace" font-size="15" font-weight="bold" fill="#2d9e6b">APPLICATIONS</text>
+<text x="500" y="312" text-anchor="middle" font-family="monospace" font-size="10" fill="#8892a4">self-hosted · docker · compose</text>
+</svg>
