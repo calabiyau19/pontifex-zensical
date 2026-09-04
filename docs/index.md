@@ -6,7 +6,7 @@ hide:
   - toc
 ---
 
-Personal documentation for homelab projects — Proxmox, self-hosted applications, Linux, and networking. Built from real-world experience running a home server environment on Ubuntu and Proxmox.
+Personal documentation for homelab projects — Proxmox, self-hosted applications, Linux, and networking. Built from real-world experience running a home server environment on Ubuntu and Proxmox. **September 2026:** migrated from Jekyll to [Zensical](https://zensical.org), the new static site generator from the team behind Material for MkDocs.
 
 <div class="grid cards" markdown>
 
